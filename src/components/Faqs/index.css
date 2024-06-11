@@ -1,0 +1,23 @@
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  padding: 80px;
+}
+
+.faqs-card {
+  background-color: #ffffff;
+  border: 0px solid #ccc;
+  border-radius: 15px;
+  padding: 30px;
+}
+
+.faqs-heading {
+  color: #cb8805;
+  font-size: 55px;
+  text-align: center;
+}
+
+.faqs-list {
+  list-style: none;
+  padding-left: 0px;
+}
